@@ -1,6 +1,6 @@
 # Hello 🙏🏽
 
-#### Solutions Consultant at Aurochs Software
+#### Solutions Consultant at Incentius | Aurochs Software
 
 I'm a Full-Stack developer from India 🇮🇳, specializing in various technologies that drive innovative solutions.
 
